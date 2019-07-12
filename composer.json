@@ -1,0 +1,30 @@
+{
+    "name": "keywea/clip",
+    "description": "yii2 base class",
+    "authors": [
+        {
+            "name": "chengzi",
+            "email": "chengzi@gmail.com"
+        }
+    ],
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability":"stable",
+    "autoload":{
+        "psr-4": {
+            "clip\\": "src"
+        }
+    },
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+        },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }    
+}
