@@ -6,7 +6,7 @@
  * Time: 17:57
  */
 
-namespace keywea\filters;
+namespace clip\filters;
 
 
 use clip\interfaces\AuthInterface;
